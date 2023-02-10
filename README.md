@@ -7,7 +7,7 @@ The project had to follow strict guidelines outlined by the IB regarding the IA 
 	- Rational for the project
 	- Requirements from the client
 - **[Criterion B]( https://github.com/olalha/Java---Chess/blob/master/Documentation/Criterion%20B.pdf)**
-	- Outlines the design
+	- Outline of the design
 		- GUI sketches
 		- Flow charts
 		- Pseudo code
