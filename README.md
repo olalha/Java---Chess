@@ -3,31 +3,33 @@ The following is my Internal Assessment (AI) for Computer Science for which I wa
  
 The project had to follow strict guidelines outlined by the IB regarding the IA for computer science. The **[Documentation]( https://github.com/olalha/Java---Chess/tree/master/Documentation)** directory contains all relevant information about the project.
 
-- **Criterion A**
+- **[Criterion A]( https://github.com/olalha/Java---Chess/blob/master/Documentation/Criterion%20A.pdf)**
 	- Rational for the project
 	- Requirements from client
-- **Criterion B**
+- **[Criterion B]( https://github.com/olalha/Java---Chess/blob/master/Documentation/Criterion%20B.pdf)**
 	- Outlines the design
 		- GUI sketches
 		- Flow charts
 		- Pseudo code
-- **Criterion C**
+- **[Criterion C]( https://github.com/olalha/Java---Chess/blob/master/Documentation/Criterion%20C.pdf)**
 	- Explanation of the program structure
 		- UML Class diagram
 		- Description of key concepts
-- **Criterion D**
+- **[Criterion D]( https://github.com/olalha/Java---Chess/blob/master/Documentation/Criterion%20D.mp4)**
 	- A video displaying the finished product
-- **Criterion E**
+- **[Criterion E]( https://github.com/olalha/Java---Chess/blob/master/Documentation/Criterion%20E.pdf)**
 	- Evaluation of project execution
-- **Appendix 1-2**
-	- Communication with the client
-- **ROT**
+- **[Appendix 1]( https://github.com/olalha/Java---Chess/blob/master/Documentation/Appendix%201.pdf)**
+	- Initial communication with the client
+- **[Appendix 2]( https://github.com/olalha/Java---Chess/blob/master/Documentation/Appendix%202.pdf)**
+	- Final communication with the client
+- **[ROT]( https://github.com/olalha/Java---Chess/blob/master/Documentation/ROT.pdf)**
 	- Record of tasks performed
 
 ## Functionality
-The source code can be found in the **src** directory. The executable file in named **chess**. If you do not have a Java VM installed or have problems running the executable, consider watching the video titled **Criterion D** in the **Documentation** folder, which showcases the program.
+The source code can be found in the **[src]( https://github.com/olalha/Java---Chess/tree/master/src)** directory. The executable file in named **[chess]( https://github.com/olalha/Java---Chess/blob/master/Chess.jar)**. If you do not have a Java VM installed or have problems running the executable, consider watching the video titled **[Criterion D]( https://github.com/olalha/Java---Chess/blob/master/Documentation/Criterion%20D.mp4)** in the **[Documentation]( https://github.com/olalha/Java---Chess/tree/master/Documentation)** folder, which showcases the program.
 
-This is a simple chess game that implements a GUI. Noteworthy functionality may include the ability to save the game state, undo moves and detect the occurrence of check/checkmate. Please refer to the **Documentation** for further information on the design and functionality of the program.
+This is a simple chess game that implements a GUI. Noteworthy functionality may include the ability to save the game state, undo moves and detect the occurrence of check/checkmate. Please refer to the **[Documentation]( https://github.com/olalha/Java---Chess/tree/master/Documentation)** for further information on the design and functionality of the program.
 
 ## Comments
-The source code contains an excessive amount of comments as this was required by the IB.
+The source code contains an excessive number of comments as this was required by the IB.
