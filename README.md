@@ -1,5 +1,5 @@
 # Java Chess
-The following is my Internal Assessment (AI) for Computer Science for which I was awarded a 7 (A*) whilst I was a student of the International Baccalaureate (IB )program. This project involved formal planning, design and communication with a client in additional to producing a working product.
+The following is my Internal Assessment (AI) for Computer Science for which I was awarded a 7 (A*) whilst I was a student of the International Baccalaureate (IB) program. This project involved formal planning, design and communication with a client in addition to producing a working product.
  
 The project had to follow strict guidelines outlined by the IB regarding the IA for computer science. The **[Documentation]( https://github.com/olalha/Java---Chess/tree/master/Documentation)** directory contains all relevant information about the project.
 
@@ -16,7 +16,7 @@ The project had to follow strict guidelines outlined by the IB regarding the IA 
 		- UML Class diagram
 		- Description of key concepts
 - **[Criterion D]( https://github.com/olalha/Java---Chess/blob/master/Documentation/Criterion%20D.mp4)**
-	- A video displaying the finished product
+	- Video displaying the finished product
 - **[Criterion E]( https://github.com/olalha/Java---Chess/blob/master/Documentation/Criterion%20E.pdf)**
 	- Evaluation of project execution
 - **[Appendix 1]( https://github.com/olalha/Java---Chess/blob/master/Documentation/Appendix%201.pdf)**
